@@ -5,3 +5,4 @@ Una aproximación al análisis futbolístico data-driven. Con mucha inspiración
 - [Análisis postpartido](https://github.com/famarti/Football_analytics/blob/master/src/dashboard_match.ipynb): en proceso.
 - Análisis del rival.
 - Estadísticas de temporada.
+- Scouting.
